@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">198811616912-4d6hijanm5t1jlejtkvkvblk9emcdhn2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">198811616912</string>
+    <string name="google_api_key" translatable="false">AIzaSyDw2Bc9yEvknp2H6S896KqMEtcTCt7jBAE</string>
+    <string name="google_app_id" translatable="false">1:198811616912:android:a9bf26308b1981d9c17a15</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDw2Bc9yEvknp2H6S896KqMEtcTCt7jBAE</string>
+    <string name="google_storage_bucket" translatable="false">skillsurfer-2195c.appspot.com</string>
+    <string name="project_id" translatable="false">skillsurfer-2195c</string>
+</resources>
